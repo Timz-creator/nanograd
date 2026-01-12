@@ -1,4 +1,3 @@
-# nanograd
 # Nanograd: Autograd Engine from First Principles
 
 A minimal autograd engine built to understand the mechanics behind PyTorch's automatic differentiation. Implements backpropagation on a dynamically built computational graph.
